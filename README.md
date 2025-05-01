@@ -8,7 +8,7 @@
 
 ## ***Week 1: Overview of the ML Lifecycle and Deployment***
 
-### ***The Machine Learning Project Lifecycle ***
+### ***The Machine Learning Project Lifecycle***
 
 #### ***1 - Welcome***
 
